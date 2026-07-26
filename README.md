@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/abdulsalam-elsayed">
     <img src="https://img.shields.io/badge/LinkedIn-Abdulsalam_Elsayed-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
   </a>
-  <a href="mailto:salamsayed134@gmail.com">
-    <img src="https://img.shields.io/badge/Email-salamsayed134@gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  <a href="mailto:abdulsalam.m.elsayed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdulsalam.m.elsayed@gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
   </a>
   <a href="https://github.com/Abdulsalam-77">
     <img src="https://img.shields.io/badge/GitHub-Abdulsalam--77-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
