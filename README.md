@@ -254,14 +254,6 @@ Managed digital content workflows and campaign execution for brand awareness.
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulsalam-77&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
@@ -303,8 +295,8 @@ Looking For:
 ## Connect
 
 <p align="center">
-  <a href="mailto:salamsayed134@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-salamsayed134@gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  <a href="mailto:abdulsalam.m.elsayed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abdulsalam.m.elsayed@gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
   </a>
   <a href="https://www.linkedin.com/in/abdulsalam-elsayed-0872671b4/">
     <img src="https://img.shields.io/badge/LinkedIn-Abdulsalam_Elsayed-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
